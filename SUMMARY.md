@@ -108,7 +108,7 @@
 
 ## Basics
 
-* [Introduction](<README (1).md>)
+* [Introduction](basics/introduction.md)
 * [Overview](basics/overview.md)
 * [Scoring matrix](basics/scoring-matrix.md)
 * [FAQ](basics/faq.md)

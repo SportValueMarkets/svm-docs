@@ -36,4 +36,4 @@ Major leagues and competitions. We understand that different leagues may have di
 
 Blockchain allows censorship resistance and security in a decentralised network. When you own a token, you really own it, nobody can take it from you. In traditional iGaming platforms, they can shut down your account if they decide so. This is impossible in a web 3, decentralised world. Blockchain and tokenisation can empower a community organised under the umbrella of a DAO (decentralised autonomous organisation).
 
-\
+<br>

@@ -6,16 +6,14 @@ The governance tokens (SVC) are distributed to different groups of holders. The 
 
 The vesting and locking is actually enforced by smart contracts on chain, rather than on paper, and thus guaranteeing full transparency and enforceability of those rules.
 
-\
-
+<br>
 
 This page will contain the token vesting and release schedule.
 
 
 
-\
+<br>
 
 
 
-
-\
+<br>

@@ -4,13 +4,11 @@
 
 **Player Tokens**
 
-These are the tokens representing the players. They are ERC20 compatible, fixed supply fungible tokens. They can be traded in any exchange and bridged to any network, because they are fully owned by the token holders.\
-
+These are the tokens representing the players. They are ERC20 compatible, fixed supply fungible tokens. They can be traded in any exchange and bridged to any network, because they are fully owned by the token holders.<br>
 
 **Issuance Contract**
 
-This is the contract that is responsible for the issuance of new tokens. It is using a Bonding curve mechanism to sell the tokens. Not all tokens are sold. Some are kept in the treasury and added as liquidity in the DEX Liquidity pool.\
-
+This is the contract that is responsible for the issuance of new tokens. It is using a Bonding curve mechanism to sell the tokens. Not all tokens are sold. Some are kept in the treasury and added as liquidity in the DEX Liquidity pool.<br>
 
 **Token Vault**
 
@@ -20,8 +18,7 @@ The token vault is where player tokens are staked. Token that are staked are eli
 
 **Scoring**
 
-This is the logic that creates a score for each player from the Oracle data. This score is communicated to the rewards pool in order to calculate the rewards given to each player token.\
-
+This is the logic that creates a score for each player from the Oracle data. This score is communicated to the rewards pool in order to calculate the rewards given to each player token.<br>
 
 **Oracles**
 

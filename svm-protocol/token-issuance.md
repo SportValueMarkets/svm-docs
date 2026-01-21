@@ -1,7 +1,6 @@
 # Token Issuance
 
-The protocol issues crypto tokens (ERC20 on the EVM compatible chains) that represent athletes in different sports (football, basketball, etc) or teams. We can call them player tokens. Their supply is fixed.\
-
+The protocol issues crypto tokens (ERC20 on the EVM compatible chains) that represent athletes in different sports (football, basketball, etc) or teams. We can call them player tokens. Their supply is fixed.<br>
 
 How can tokens be introduced to the market? One way is an auction system. But we found it can be hard to bootstrap liquidity with auctions. We are using a bonding curve for the initial token issuance. A bonding curve is a mathematical curve that defines a relationship between price and token supply. We are using the [Bancor formula](https://github.com/relevant-community/bonding-curve/blob/master/contracts/BancorFormula.sol) for the issuance price:
 
@@ -25,8 +24,7 @@ We introduce differences from the Bancor continuous token issuances. First, Play
 
 
 
-An entity with the permission to issue new tokens (DAO executor) can initiate the issuance of a new athlete token.\
-
+An entity with the permission to issue new tokens (DAO executor) can initiate the issuance of a new athlete token.<br>
 
 Issuance process:
 

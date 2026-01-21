@@ -2,8 +2,7 @@
 
 SVC token holders have voting rights (see DAO governance). SVC tokens need to be staked in order to vote (staked SVC tokens are called veSVC). Staked SVC tokens also receive a percentage of the protocol revenue (see Protocol > Economics section)
 
-\
-
+<br>
 
 SVC token is also an utility token:
 

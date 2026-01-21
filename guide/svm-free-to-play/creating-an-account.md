@@ -17,7 +17,6 @@ When you register you are taken back to the main dashboard:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-09 at 16.42.51.png" alt=""><figcaption><p>Football Market View</p></figcaption></figure>
 
 From there you can go to Profile > Account and edit personal information such as display name (for the leaderboard) and email preferences.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-09 at 16.45.54.png" alt=""><figcaption><p>Account Details</p></figcaption></figure>

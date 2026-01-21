@@ -16,8 +16,7 @@ SVM  community members are rewarded for their loyalty and commitment and for eve
 ## Type of Rewards
 
 Value Points = On-Chain Tokens\
-SVC Airdrop allocation (around 20%) will be dropped to all SVP holders shared proportionally to their holdings. Eg 200M SVC will be swapped for 100 000 SVP if there are 100 000 SVPs held by the community\
-
+SVC Airdrop allocation (around 20%) will be dropped to all SVP holders shared proportionally to their holdings. Eg 200M SVC will be swapped for 100 000 SVP if there are 100 000 SVPs held by the community<br>
 
 ## Campaigns
 
