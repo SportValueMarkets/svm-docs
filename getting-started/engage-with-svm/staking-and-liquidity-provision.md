@@ -1,2 +1,0 @@
-# Staking & Liquidity Provision
-

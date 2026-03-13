@@ -2,28 +2,28 @@
 
 ### Sports Data API
 
-This API provides access to all sports data (teams, players, resulys, stats, etc)
+This API provides access to all sports data (teams, players, results, stats, etc)
 
-URL: [https://sport-data-api.sportvalue.network](https://sport-data-api.sportvalue.network)
+URL: TBD
 
-Docs: [https://sportvalue.network/docs/sport-data-api.html](https://sportvalue.network/docs/sport-data-api.html)
+Docs: TBD
 
 
 
-### SVM Free2Play API
+### SVM Free API
 
 This is the API for the SVM Free to play app
 
-URL: [https://api-free.sportvalue.network](https://api-free.sportvalue.network)
+URL: TBD
 
-Docs: [https://sportvalue.network/docs/svm-api.html](https://sportvalue.network/docs/svm-api.html)
+Docs: TBD
 
 
 
-### SVM API
+### SVM Pro API
 
 This is the API for the SVM Backend
 
-URL: [https://api.sportvalue.network](https://api.sportvalue.network)
+URL: TBD
 
-Docs: [https://sportvalue.network/docs/svt-api.html](https://sportvalue.network/docs/svt-api.html)
+Docs: TBD

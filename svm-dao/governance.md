@@ -1,6 +1,6 @@
 # Governance
 
-The SVM ecosystem is controlled by SVC token holders who submit and vote on off-chain proposals that govern the ecosystem. Proposals that generate majority support (>50% of the vote) are implemented by a multi-signature wallet. The members of the multi-signature wallet (DAO management committee) are voted in by SVC holders  and are subject to change from future governance votes. In order to get voting rights, SVC tokens need to be staked.
+The SVM ecosystem is controlled by SVM token holders who submit and vote on off-chain proposals that govern the ecosystem. Proposals that generate majority support (>50% of the vote) are implemented by a multi-signature wallet. The members of the multi-signature wallet (DAO management committee) are voted in by SVM holders  and are subject to change from future governance votes. In order to get voting rights, SVM tokens need to be staked.
 
 <br>
 

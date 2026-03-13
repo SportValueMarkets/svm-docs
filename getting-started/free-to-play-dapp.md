@@ -1,2 +1,0 @@
-# Free-To-Play dApp
-

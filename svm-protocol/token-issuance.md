@@ -30,6 +30,6 @@ Issuance process:
 
 1. A vote is cast about what new Player tokens to issue
 2. If all conditions are set (data source is available), the token sale can be initiated
-3. 50% of the tokens are offered for sale to the issuance contract. They may not be sold completely if there is a lack of demand.
+3. 50% of the tokens are offered for sale to the issuance contract. The remaining ones are split between the DAO treasury, Liquidity pools, reserves for the athlete
 4. Unsold tokens are split between liquidity pools, reward pools, and DAO treasury
 5. The token is listed on the DEX, and liquidity is provided by the treasury

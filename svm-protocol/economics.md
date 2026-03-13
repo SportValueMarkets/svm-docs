@@ -5,15 +5,15 @@ The SVM protocol charges fees that are shared between SC token holders, the rewa
 **Protocol Revenue:**
 
 * Funds from the initial player token sale are held in the treasury but are used for liquidity provision
-* 10% fee from Reward Pools
+* 20% fee from Reward Pools
 * There is a regular issuance of SVC that is sent to the payout fund. The inflationary pressure that is generated is compensated by the token burning. However the max supply of SVC is capped to 1B tokens.
 * Free liquidity can be invested in third party DEFI protocols to generate yield<br>
 
 **Protocol expenses:**
 
-* 10% goes into the DAO treasury to fund DAO operations
-* 60% is used to pay rewards to SVC stakers
-* 30% is used to burn SVC tokens<br>
+* 20% goes into the DAO treasury to fund DAO operations
+* 40% is used to pay rewards to SVM stakers
+* 30% is used to burn SVM tokens<br>
 
 **Reward Pools revenue:**
 

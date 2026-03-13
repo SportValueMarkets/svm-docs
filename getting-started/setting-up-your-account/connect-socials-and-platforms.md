@@ -1,2 +1,0 @@
-# Connect Socials & Platforms
-

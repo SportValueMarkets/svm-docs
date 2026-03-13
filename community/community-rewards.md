@@ -22,13 +22,13 @@ SVC Airdrop allocation (around 20%) will be dropped to all SVP holders shared pr
 
 Currently we are running a points reward program on Zealy: [https://zealy.io/cw/sportvaluetokens/questboard](https://zealy.io/cw/sportvaluetokens/questboard)
 
-and Galxe: [https://app.galxe.com/quest/HnqVD3buQxYCpstYw6ALWP](https://app.galxe.com/quest/HnqVD3buQxYCpstYw6ALWP)&#x20;
-
-These points will exchanged for tokens (SVC) after the TGE. See in token distribution section, the number of tokens allocated to the community (airdrops).
 
 
+These points will exchanged for tokens (SVM) after the TGE. See in token distribution section, the number of tokens allocated to the community (airdrops).
 
-Trading, staking, providing liquidity will lead to rewards in SVC
+
+
+Trading, staking, providing liquidity will lead to rewards in SVM
 
 There will be also trading competitions and different prizes.
 
