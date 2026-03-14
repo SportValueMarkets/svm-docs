@@ -6,14 +6,16 @@ icon: hand-wave
 
 Welcome to [Sport Value Markets](https://sportvalue.network/) **(SVM)** - an innovative platform where you can buy and trade digital tokens linked to real athletes performance.
 
-### What is SVM in a Nutshell?&#x20;
+### **What is SVM in a Nutshell?**
 
-Imagine Pump.FUN but the tokens being issued represent athletes.
+SVM is a Web3 perpetual prediction market. Every professional athlete gets their own token — and that token earns rewards based on how the athlete actually performs on the pitch, court, or track.
 
-* build a portfolio of athletes in multiple sports
-* earn financial rewards when your athletes perform well
-* choose your winning strategy: frequent trading or buy and hold great athletes
+It's not betting. There are no odds, no house, no losing ticket. You hold a token, your athlete plays well, you earn. Unlike traditional prediction markets that close when an event ends, SVM markets are perpetual — they keep running, keep scoring, and keep rewarding for as long as the athlete plays.
 
-Sport Value Markets is a Web 3 platform issuing crypto assets linked to real life performance of athletes, and a trading platform for those tokens. It is an innovative prediction market. SVM protocol is maintained by a DAO which uses governance tokens. SVM is a revenue generating protocol, sharing revenue with the DAO members.
+The protocol is governed by a community DAO and generates real revenue, shared with token holders.
 
-Let Your Knowledge Rule The Game . You live for your sport. You know the players - the stars, rising stars and ones whose careers are in their twilight. Whether it's football, NFL, basketball or cricket, you've got every inch of the game covered. Now, can you turn that insight into returns? Beat the competition and prove that you are a sports star in your own right.&#x20;
+**Let Your Knowledge Rule the Game**
+
+You live for your sport. You know the players — the stars, the rising talents, the ones whose best days are behind them. Whether it's football, NFL, basketball, or cricket, you see things the casual fan misses.
+
+SVM lets you put that knowledge to work. Spot an undervalued player before the market does. Build a portfolio across sports. Compete on the leaderboard and prove you're not just a fan — you're a strategist. great athletes

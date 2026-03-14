@@ -36,7 +36,7 @@ icon: question
 
 **The Problem:** Retail trading—especially in crypto—is a hostile environment where 98.5% of users lose money. It requires fighting against complex charts, technical analysis (TA), leverage, and market manipulation. It simply isn't built for normal users.&#x20;
 
-**How We Solve It:** We offer an accessible, alternative asset class: athlete performance. You don't need to read candlestick charts or time the market to win here. We prioritize simplicity over speculation. Fans just stake on the athletes they know and believe in, earning yields driven purely by verifiable, real-world athletic achievements.
+**How We Solve It:** We offer an accessible, alternative asset class: athlete performance. You don't need to read candlestick charts or time the market to win here. We prioritize simplicity over speculation. Fans just stake on the athletes they know and believe in, earning performance rewards driven purely by verifiable, real-world athletic achievements.
 
 #### 🚀 The Result? <a href="#the-result" id="the-result"></a>
 
