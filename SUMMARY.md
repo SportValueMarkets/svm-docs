@@ -21,14 +21,14 @@
 * [Sport Stats](getting-started/sport-stats.md)
 * [Rewards and How to Win](getting-started/rewards-and-how-to-win.md)
 
-## SVM Protocol
+## Core Concepts
 
-* [Overview](svm-protocol/overview.md)
-* [Architecture](svm-protocol/architecture.md)
-* [Token Issuance](svm-protocol/token-issuance.md)
-* [Scoring and Payouts](svm-protocol/scoring-and-payouts.md)
-* [Trading Tokens](svm-protocol/trading-tokens.md)
-* [Economics](svm-protocol/economics.md)
+* [Overview](core-concepts/overview.md)
+* [Architecture](core-concepts/architecture.md)
+* [Token Issuance](core-concepts/token-issuance.md)
+* [Scoring and Payouts](core-concepts/scoring-and-payouts.md)
+* [Trading Tokens](core-concepts/trading-tokens.md)
+* [Economics](core-concepts/economics.md)
 
 ## SVM DAO
 
