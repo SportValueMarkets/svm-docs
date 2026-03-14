@@ -36,7 +36,7 @@ On SVM Pro you can also earn points that can be converted to cash or tokens
 
 
 
-Token Packs
+## Token Packs
 
 What is it? A token pack is a type of reward which contains a certain number of player tokens. You can exchange points for packs or purchase them when they are available. Why packs? During the project launch phase the market is closed. The only way to acquire tokens early is with packs. \
 \
