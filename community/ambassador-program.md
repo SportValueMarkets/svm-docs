@@ -14,7 +14,7 @@ If you're already playing the app, talking about it to your network, and thinkin
 
 ## The Three Tiers
 
-### Scout — Entry Level
+### Scout - Entry Level
 
 Scouts are activated users who have demonstrated willingness to bring others in. The bar is accessible by design.
 
@@ -22,13 +22,13 @@ Scouts are activated users who have demonstrated willingness to bring others in.
 
 <br>
 
-### Analyst — Mid Level (Target: 100 ambassadors)
+### Analyst - Mid Level (Target: 100 ambassadors)
 
 Analysts are the content engine. They have proven they can both recruit and create.<br>
 
 <table data-header-hidden><thead><tr><th width="246.33203125"></th><th></th></tr></thead><tbody><tr><td>Dimension</td><td>Details</td></tr><tr><td>Entry requirement</td><td><ul><li>10 qualifying referrals</li><li>3 pieces of original content using SVM data or framing (thread, prediction breakdown, portfolio card post)</li><li>at least 500 followers on social media</li></ul></td></tr><tr><td>Rewards (on top of Scout rewards)</td><td><ul><li>Analyst badge</li><li>2x point multiplier</li><li>early feature access before public release</li><li>private #analysts-alpha Discord channel with direct access to product team</li><li>co-promotion of best content from @SVMFootball</li></ul></td></tr><tr><td>Weekly ask</td><td>2–3 original posts per week using SVM data or prediction game results. <br>or<br>One or multiple videos per week</td></tr></tbody></table>
 
-### Founder — Top Tier (Target: 20 ambassadors)
+### Founder - Top Tier
 
 Founders are the inner circle. Selection is partly quantitative (thresholds) and partly editorial — the team hand-picks the final 20 based on alignment and authenticity.<br>
 
