@@ -45,6 +45,7 @@
 
 * [Community Rewards](community/community-rewards.md)
 * [Referral Program](community/referral-program.md)
+* [Ambassador Program](community/ambassador-program.md)
 * [Join the Community](community/join-the-community.md)
 
 ## Resources
