@@ -22,7 +22,7 @@ Scouts are activated users who have demonstrated willingness to bring others in.
 
 <br>
 
-### Analyst - Mid Level (Target: 100 ambassadors)
+### Analyst - Mid Level
 
 Analysts are the content engine. They have proven they can both recruit and create.<br>
 
