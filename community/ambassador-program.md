@@ -33,3 +33,7 @@ Analysts are the content engine. They have proven they can both recruit and crea
 Founders are the inner circle. Selection is partly quantitative (thresholds) and partly editorial — the team hand-picks the final 20 based on alignment and authenticity.<br>
 
 <table data-header-hidden><thead><tr><th width="192.67578125"></th><th></th></tr></thead><tbody><tr><td>Dimension</td><td>Details</td></tr><tr><td>Entry requirement</td><td><ul><li>25 qualifying referrals</li><li>consistent content output</li><li>editorial approval from founding team</li></ul></td></tr><tr><td>Rewards (on top of Analyst rewards)</td><td><ul><li>Founder badge (permanent)</li><li>3x point multiplier</li><li>Cash rewards</li><li>guaranteed SVM Pro early access with funded account for first month</li><li>token allocation at launch</li><li>direct WhatsApp / Telegram access to founding team</li><li>first consideration for paid partnerships when post-seed budget activates</li><li>30% affiliate revenue</li></ul></td></tr><tr><td>Weekly ask</td><td><ul><li>Weekly content series (prediction analysis, market thread, or Scouting Report format)</li><li>monthly guest appearance on Twitter Space</li><li>represent SVM in their communities when they genuinely have something to say (not on a posting schedule)</li></ul></td></tr></tbody></table>
+
+## How to Apply?
+
+After signing up, fill in the form located at [https://free.sportvalue.app/ambassador-application](https://free.sportvalue.app/ambassador-application)
