@@ -18,7 +18,7 @@ icon: question
 
 **The Problem:** Traditional fantasy sports platforms suffer from delayed, opaque, or disputed scoring systems. Furthermore, their reward structures are incredibly top-heavy, forcing users to wait months for a payout that only benefits the top 1% of players.&#x20;
 
-**How We Solve It:** We fix this with total transparency and instant gratification. Every tournament is powered by real-world, verified data from official providers (like Opta and Sportradar). Instead of waiting months, users enjoy a continuous reward loop—earning cash payouts and other rewards weekly
+**How We Solve It:** We fix this with total transparency and instant gratification. Every tournament is powered by real-world, verified data from official providers (like Opta and Sport Radar). Instead of waiting months, users enjoy a continuous reward loop - earning cash payouts and other rewards weekly
 
 ### 3. The Predatory, Restricted Betting Industry
 
@@ -28,13 +28,13 @@ icon: question
 
 ### 4. Unsustainable Web3 Speculation
 
-**The Problem:** Most Web3 and crypto gaming models are built on unsustainable tokenomics—high Fully Diluted Valuations (FDV), low float, and inflationary emissions. They are often pump-and-dump schemes disguised as games, designed to use retail players as exit liquidity.&#x20;
+**The Problem:** Most Web3 and crypto gaming models are built on unsustainable tokenomics - high Fully Diluted Valuations (FDV), low float, and inflationary emissions. They are often pump-and-dump schemes disguised as games, designed to use retail players as exit liquidity.&#x20;
 
 **How We Solve It:** We are building for infinite replayability and long-term utility. Our tokenomics create a real economic flywheel where protocol revenue feeds directly into buybacks, liquidity pools, burns, and staker rewards. Every new athlete tokenized launches a fresh campaign, driving organic, sustainable demand rather than fleeting hype.
 
 ### 5. The Complexity of Financial Trading
 
-**The Problem:** Retail trading—especially in crypto—is a hostile environment where 98.5% of users lose money. It requires fighting against complex charts, technical analysis (TA), leverage, and market manipulation. It simply isn't built for normal users.&#x20;
+**The Problem:** Retail trading, especially in crypto, is a hostile environment where 98.5% of users lose money. It requires fighting against complex charts, technical analysis (TA), leverage, and market manipulation. It simply isn't built for normal users.&#x20;
 
 **How We Solve It:** We offer an accessible, alternative asset class: athlete performance. You don't need to read candlestick charts or time the market to win here. We prioritize simplicity over speculation. Fans just stake on the athletes they know and believe in, earning performance rewards driven purely by verifiable, real-world athletic achievements.
 

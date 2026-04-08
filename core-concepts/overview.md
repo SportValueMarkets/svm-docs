@@ -2,7 +2,7 @@
 
 ### 🌐 Sport Value Market (SVM): Protocol Overview
 
-Sport Value Market (SVM) is a chain-agnostic, decentralized protocol for creating prediction markets around real-world sports performance. From footballers to F1 drivers to dancers and beyond — if their performance creates fans, SVM turns it into programmable value.
+Sport Value Market (SVM) is a chain-agnostic, decentralized protocol for creating prediction markets around real-world sports performance. From footballers to F1 drivers to dancers and beyond, if their performance creates fans, SVM turns it into programmable value.
 
 Governed entirely by a DAO via the $SVM token, the protocol puts the community in control. Each supported sports star gets their own fixed-supply asset, a Player Token, that can be bought, staked, and earned from without placing a bet or taking on a loss.
 

@@ -2,15 +2,15 @@
 
 ## **Welcome to the SVM Ambassador Program**
 
-SVM is building the first all-sport athlete token platform — where fans prove their knowledge, trade player performance, and earn when it counts. And we're building it with our community, not just for them.
+SVM is building the first all-sport athlete token platform - where fans prove their knowledge, trade player performance, and earn when it counts. And we're building it with our community, not just for them.
 
 The Ambassador Program is the inside track. A structured path for the people who get what we're building, use the product genuinely, and want to help shape where it goes.
 
-This isn't a marketing contract. There are no posting schedules, no shill briefs, and no one-off promo deals. Ambassadors earn their status through real product engagement — predictions made, referrals activated, content created. The rewards follow the behaviour.
+This isn't a marketing contract. There are no posting schedules, no shill briefs, and no one-off promo deals. Ambassadors earn their status through real product engagement - predictions made, referrals activated, content created. The rewards follow the behaviour.
 
-The program runs across three tiers — Scout, Analyst, and Coach — each unlocking deeper access, higher point multipliers, and a closer relationship with the SVM team. Status is earned progressively, and at the top tier, it's permanent.
+The program runs across three tiers - Scout, Analyst, and Coach - each unlocking deeper access, higher point multipliers, and a closer relationship with the SVM team. Status is earned progressively, and at the top tier, it's permanent.
 
-If you're already playing the app, talking about it to your network, and thinking about athlete performance in the same way we do — you're already halfway there.
+If you're already playing the app, talking about it to your network, and thinking about athlete performance in the same way we do - you're already halfway there.
 
 ## The Three Tiers
 

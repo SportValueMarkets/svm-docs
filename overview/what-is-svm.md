@@ -4,7 +4,7 @@ icon: face-thinking
 
 # What is SVM
 
-> **SVM (Sport Value Market)** is a decentralized Web3 platform that transforms real-life athletes into tradable, stakeable, performance-driven tokens — and turns fans into stakeholders.
+> **SVM (Sport Value Market)** is a decentralized Web3 platform that transforms real-life athletes into tradable, stakeable, performance-driven tokens - and turns fans into stakeholders.
 
 At Sport Value Market, we are building more than just a trading platform; we are creating the ultimate information aggregation engine for sports.
 
@@ -12,7 +12,7 @@ At Sport Value Market, we are building more than just a trading platform; we are
 
 ## 🧩 **A New Kind of Prediction Market**
 
-We’re building a new market — one that’s:
+We’re building a new market - one that’s:
 
 * Fair
 * Permissionless
@@ -22,15 +22,15 @@ We’re building a new market — one that’s:
 
 At its core, SVM is:
 
-🏅 **A Token Factory for Athletes** Every athlete gets a fixed-supply ERC-20 token, scored by live performance and driven by community demand. Launched through a bonding curve — where early access is rewarded, and early exits are penalized.
+🏅 **A Token Factory for Athletes** Every athlete gets a fixed-supply ERC-20 token, scored by live performance and driven by community demand. Launched through a bonding curve - where early access is rewarded, and early exits are penalized.
 
-🔁 **A No-Loss Staking System** Stake tokens to earn weekly performance driven rewards — no betting, no downside. Your tokens stay in your wallet, win or lose.
+🔁 **A No-Loss Staking System** Stake tokens to earn weekly performance driven rewards - no betting, no downside. Your tokens stay in your wallet, win or lose.
 
 🪂 **An Infinite Rewards Engine** Every performance token launch comes with its own airdrop campaign. Users allocate points to join the airdrop pool.&#x20;
 
 💰 **A Revenue-Generating Flywheel** Trades, staking, and protocol fees feed into buybacks, LPs, burns, and DAO-controlled rewards. Sustainable incentives. Real utility.
 
-🧠 **A Community-Governed DAO** $SVM holders decide what gets built, who gets funded, and how the protocol evolves — all transparently on-chain.
+🧠 **A Community-Governed DAO** $SVM holders decide what gets built, who gets funded, and how the protocol evolves - all transparently on-chain.
 
 
 
@@ -67,7 +67,7 @@ At its core, SVM is:
 * Launch new markets for athletes
 * Vote on key decisions through $SVM
 
-It’s the ultimate play-to-earn loop — powered by fandom, not speculation.
+It’s the ultimate play-to-earn loop - powered by fandom, not speculation.
 
 
 
