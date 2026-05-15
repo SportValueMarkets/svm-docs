@@ -16,7 +16,7 @@ If you're already playing the app, talking about it to your network, and thinkin
 
 ### Scout - Entry Level
 
-Scouts are activated users who have demonstrated willingness to bring others in. The bar is accessible by design.
+Scouts are activated users who have demonstrated willingness to bring others in. The bar is accessible by design. If you are starting from zero, you can still join us as an intern. What's the difference? No entry requirements, but no rewards until you reach the entry requirements.
 
 <table data-header-hidden><thead><tr><th width="179.8203125"></th><th></th></tr></thead><tbody><tr><td>Entry requirement</td><td><p>At least one:</p><ul><li>3 qualifying referrals (referred users must activate)</li><li>10,000 points</li><li>1000 followers</li></ul></td></tr><tr><td>Rewards</td><td><ul><li>Scout badge on profile</li><li>Access to #ambassadors Discord channel</li><li>Data, creatives and banners for your social media</li><li>Run your own social media account</li><li>2x points multiplier</li><li>10% affiliate revenue</li></ul></td></tr><tr><td>Requirements</td><td><ul><li>Have a trading account</li><li>Share your referral link at least once per week</li><li>Comment and Reply to social media posts</li><li>Post content 5 times a week</li><li>Share you trading activity at least once a week on social media</li></ul></td></tr></tbody></table>
 
